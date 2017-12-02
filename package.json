@@ -1,0 +1,22 @@
+{
+  "name": "asertu",
+  "version": "0.0.1",
+  "description": "Base creation",
+  "main": "asertu.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/datalaneasl/asertu.git"
+  },
+  "keywords": [
+    "asertu"
+  ],
+  "author": "asertu <info@asertu.com> (https://asertu.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/datalaneasl/asertu/issues"
+  },
+  "homepage": "https://github.com/datalaneasl/asertu#readme"
+}
